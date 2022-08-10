@@ -81,9 +81,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-────「 [GodfatherBot](https://telegra.ph/file/bfa2fbaf65ac04fad78ee.jpg) 」────
+────「 [ＴＨＥܔＳＨＥＩＬＤ](https://telegra.ph/file/84729c7c97a126ae42d74.jpg) 」────
 ʜᴇʏ! {}
-ɪ ᴀᴍ 𝐆𝐨𝐝𝐟𝐚𝐭𝐡𝐞𝐫𝐛𝐨𝐭 ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜᴏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ.
+ɪ ᴀᴍ ＴＨＥܔＳＨＥＩＬＤ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜᴏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ.
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 I have lots of handy features such as:
 ‣ Warning system
@@ -104,10 +104,10 @@ buttons = [
     [                  
                        InlineKeyboardButton(
                              text="Support👥",
-                             url=f"https://t.me/GodfatherSupport"),
+                             url=f"https://t.me/THESHEILDSUPPORT"),
                        InlineKeyboardButton(
                              text="Updates📡",
-                             url=f"https://t.me/The_Godfather_Network"),
+                             url=f"https://t.me/SHEILDUPDATESSS"),
     ],
     [
         InlineKeyboardButton(
@@ -115,12 +115,12 @@ buttons = [
               callback_data="help_back"),
         InlineKeyboardButton(
               text="About",
-              callback_data="shukurenai_"),   
+              callback_data="AANDAVAR_"),   
     ],
     [
         InlineKeyboardButton(
             text="Donate 🌹", 
-            callback_data="shukurenai_donate"),
+            callback_data="AANDAVAR_donate"),
     ],
 
 ]
